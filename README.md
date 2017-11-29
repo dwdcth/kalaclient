@@ -1,3 +1,6 @@
+
+# kala client ( 
+a pure kala client for [kala](https://github.com/ajvb/kala)
 ## Why making a new wheel
 ### A clean kala client library
 The default kala library will make "jobdb.db" and "jobdb.db.lock" files.
